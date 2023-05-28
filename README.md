@@ -1,4 +1,4 @@
-# ecom_log_parser_and_data_cleaning
+# ecom_log_parser_and_data_preprocessing
 #Here's an explanation of each line of the code:
 1.	import os: This line imports the os module, which provides a portable way of using operating system dependent functionality like reading or writing to the file system.
 2.	log_directory = "/path/to/logs": This line defines a variable named log_directory that holds the path to the directory where the log files are located. Replace /path/to/logs with the actual path to your log directory.
